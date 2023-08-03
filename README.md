@@ -1,1 +1,3 @@
 # MeTube-Multimedia-Database-Project
+
+The Metube project is a website, like youtube or other multimedia websites, and every users could be register and sign in through the port on navbar. When the user signed in, they can click into their own web page and the sidebar will show all the functions they could be used. They can upload and download media files, give some comments and rate on the media. For specific media, users who are signed in can build a group to discuss the same topic. Also, Users can send messages to others based on our message system. Channels can be set by each signed-in user, and others can subscribe to different channels.
